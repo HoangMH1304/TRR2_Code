@@ -2,6 +2,8 @@
 #define MAX 100
 #define INF 1000000
 using namespace std;
+
+//mai huy hoang
 class   graph{
     int     n, s, C[MAX][MAX], d[MAX], truoc[MAX];
     public:
