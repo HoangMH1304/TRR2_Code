@@ -4,6 +4,7 @@
 using namespace std;
 
 //mai huy hoang
+//hoanghuymai
 class   graph{
     int     n, s, C[MAX][MAX], d[MAX], truoc[MAX];
     public:
