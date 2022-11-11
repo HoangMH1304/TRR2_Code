@@ -3,7 +3,6 @@
 #include<cstring>
 using namespace std;
 
-//mai huy hoang
 int n, A[100][100];
 vector<int> adj[1001];
 int visited[1001];

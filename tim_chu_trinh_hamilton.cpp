@@ -1,8 +1,6 @@
 #include<iostream>
 using namespace std;
 #define MAX 100
-
-//maihuyhoang
 class graph{
     int n, A[MAX][MAX],s,chuaxet[MAX],X[MAX];
     public:
